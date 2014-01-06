@@ -20,3 +20,6 @@ Folders are:
 
 More information about this project can be found here:
 http://io.workspace.howest.be/edubots/ono/
+
+Copyright (C) 2014 Cesar Vandevelde
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
