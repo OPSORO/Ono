@@ -60,7 +60,7 @@ enum DOF_indices {  L_BROW_OUTER = 0,
                     MOUTH_L = 10,
                     MOUTH_R = 11,
                     MOUTH_MID = 12
-                  };
+                 };
 
 // DOF configuration
 DOF DOFs[13] = {
